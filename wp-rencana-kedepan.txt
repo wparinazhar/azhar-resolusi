@@ -1,0 +1,4 @@
+WP RENCANA KEDEPAN
+- Belajar javascript
+- Belajar php framework
+- membuat web dengan javascript
