@@ -1,6 +1,8 @@
 WP RENCANA KEDEPAN
 - Belajar javascript
+* angular
+* react
 - Belajar php framework
-- membuat web dengan javascript
+* laravel
 *membuat web wedding*
 - belajar UI/UX
