@@ -1,6 +1,7 @@
 WP RENCANA KEDEPAN
 - Belajar javascript
 * vue
+* react
 - Belajar php framework
 - membuat web dengan javascript
 *membuat web wedding*
